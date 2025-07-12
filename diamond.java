@@ -1,4 +1,4 @@
-// Java program to print diamond pattern using 
+// hitesh
 import java.io.*;
  
 class GFG{
